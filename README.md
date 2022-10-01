@@ -34,10 +34,10 @@ i have done post graduate with the stream of Master Of Computer Application(MCA)
 
 -->Video Documentation
 
-click this link and watch video for better understanding working of project--
+click this link and watch video for better understanding working of project-- https://www.loom.com/share/3b702c369d6342a587e0777db44f3bb1
 
 -->MY Linkedin profile
-click this link for knowing me--
+click this link for knowing me--  https://www.linkedin.com/in/ashutosh-kumar-tiwary-b67615232/
 
 --Developer Name of this Project--
 
